@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MapDifferent</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="place_type">
+        <item>airport</item>
+        <item>apartment</item>
+        <item>art_gallery</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>department_store</item>
+        <item>fire_station</item>
+        <item>grocery_or_supermarket</item>
+        <item>gym</item>
+        <item>hospital</item>
+        <item>lodging</item>
+        <item>movie_theater</item>
+        <item>museum</item>
+        <item>pharmacy</item>
+        <item>police</item>
+        <item>post_office</item>
+        <item>restaurant</item>
+        <item>school</item>
+        <item>supermarket</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Airport</item>
+        <item>Apartments</item>
+        <item>Art Gallery</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bar</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Department Store</item>
+        <item>Fire Station</item>
+        <item>Grocery or Supermarket</item>
+        <item>Gym</item>
+        <item>Hospital</item>
+        <item>Lodging</item>
+        <item>Movie Theater</item>
+        <item>Museum</item>
+        <item>Pharmacy</item>
+        <item>Police</item>
+        <item>Post Office</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Super Market</item>
+    </string-array>
+
+</resources>
